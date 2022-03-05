@@ -1,3 +1,4 @@
-# TAREA GitHub
-CIENCIA DE DATOS EN PYTHON
-# Ver pagina #47 adicion de tutorial 
+# INVESTIGACION GitHub
+# Ver pagina #47 adicion de tutorial en 
+# archivo GitHub con tutorial1.pdf
+CLASE: CIENCIA DE DATOS EN PYTHON
